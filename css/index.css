@@ -1,6 +1,10 @@
+header{
+    background-color: rgb(177, 233, 233);
+}
+
 header h2{
     text-align: center;
-    margin-top: 50px;
+    padding-top: 50px;
 }
 
 header p{
