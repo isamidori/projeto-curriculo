@@ -1,0 +1,33 @@
+header h2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+header p{
+    text-align: center;
+
+}
+
+header img{
+    background-color: #ddd;
+    border-radius: 50%;
+    height: 200px;
+    object-fit: cover;
+    width: 200px;  
+    margin-top: -200px;
+    margin-left: 100px;
+}
+
+.fomacao{
+    margin-left: 100px;
+}
+
+.habilidades{
+    margin-left: 100px;
+}
+
+.experiencia{
+    margin-left: 100px;
+    width: 80%;
+    text-align: justify;
+}
